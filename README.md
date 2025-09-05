@@ -16,8 +16,5 @@ It is a console-based Python program with SQLite database that:
 # Reset and seed database
 python main.py --reset
 
-# Add 50 sample patients
-python add_patients.py
-
 # Run the console app
 python main.py
